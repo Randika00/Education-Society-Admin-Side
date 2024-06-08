@@ -6,4 +6,12 @@ This might include the technical status of the platform, details about customer 
 aspects of the system.This powerful and intuitive system is designed to streamline and enhance the administrative workflow for educational societies. Built with a 
 robust stack of modern web technologies, our admin panel ensures efficient management of all tasks and events.
 
+ ✨  Features:- 
+ 
+            * Beautiful UI: 🎫 Crafted with SCSS, Bootstrap, and custom styles for an appealing and user-friendly interface.
+            * Interactive Experience: 🔒 Developed using TypeScript and JavaScript, offering a smooth and dynamic user experience.
+            * Real-time Updates: 📋 Keep track of all statuses and upcoming events with our real-time notification system powered by JSON and AJAX.
+            * Efficient Management: 💬 Control and oversee all administrative workflows from a single, unified platform. 
+
+     
 
