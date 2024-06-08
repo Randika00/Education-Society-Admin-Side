@@ -1,4 +1,5 @@
 ## Education Society Management Admin Panel 🎓
+`SCSS` `AJAX` `TypeScript` `MySQL` `Bootstrap` `JSON` `JavaScript` `HTML` `Workflow` 
 
 An admin panel or a control panel is a system that enables administrators and other website workers to conduct various tasks like monitoring, maintaining, and 
 controlling certain business processes.admin panel and dashboards display all the data and information that the system was programmed to collect and organize. 
